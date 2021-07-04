@@ -17,6 +17,20 @@ a {
     color: white;
 }
 
+::-webkit-scrollbar {
+    background: rgb(39, 39, 39);
+    width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgb(61, 61, 61);
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(99, 99, 99);
+}
+
 body {
     background-color: var(--black);
     color: white;
