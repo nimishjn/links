@@ -59,3 +59,12 @@ Make changes to info.json and the website will render itself based on it.
     └── ...
 (end)
 ```
+## Structure of page
+![Structure](https://user-images.githubusercontent.com/63140632/135500258-ea590213-8a4c-4d1a-ac85-ce290a85a6c1.png)
+
+## Contributors
+<table>
+  <tr>
+    <td align="center"><a href="https://www.nimish-jain.com/"><img src="https://avatars.githubusercontent.com/u/63140632?v=4" width="100px;" alt=""/><br /><sub><b>Nimish Jain</b></sub></a><br /><a href="https://github.com/nimishjn/links/commits?author=nimishjn" title="Code">💻</a> <a href="https://github.com/nimishjn/links/commits?author=nimishjn" title="Documentation">📖</a></td>
+  </tr>
+</table>
