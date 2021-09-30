@@ -1,31 +1,61 @@
-# Links by Nimish
-A basic static website to host important links
+# Links and skills
+![Baner](https://user-images.githubusercontent.com/63140632/135496771-2c2c2464-e4a7-4543-8ec4-36687c8471cf.png)
 
-This website renders a website based on info.json present in the assets folder.
+A website built using HTML, CSS and JavaScript to host all the important links and skills of an individual.  
+Make changes to info.json and the website will render itself based on it.
 
-Features of [assets/info.json](./assets/info.json):  
-* `name`: Name
-* `image`: Profile image link
-* `designation`: Designation
-* `heading`: Heading
-* `skills`: List [
-  * Skill 1
-  * Skill 2
-  * Skill 3
-  * Skill 4
-  * Skill 5
-  * ... ]
-* `sections`: List [
-  * Section 1
-    * `heading`: Heading text or `false`
-    * `links`: List [
-      * Link 1
-        * `title`: Title
-        * `icon`: Icon from font awesome
-        * `url`: URL of the link
-      * Link 2 
-      * ... ]
-  * Section 2 
-  * ... ]
-
-Check out 
+## Structure of [assets/info.json](./assets/info.json)
+```
+(start)
+├── name (String)
+├── image (String)
+├── designation (String)
+├── heading (String)
+├── skills (Array)
+|   ├── <Skill 1>
+|   ├── <Skill 2>
+|   ├── <Skill 3>
+|   └── ...
+|
+└── sections (Array)
+    ├── Section 1 (Object)
+    |   ├── heading (String / false)
+    |   └── links (Array)
+    |       ├── Link 1 (Object)
+    |       |   ├── title (String)
+    |       |   ├── icon (String)
+    |       |   |   Note: Use font awesome <i> tags
+    |       |   |   Example: "<i class='fas fa-file-alt'></i>"
+    |       |   └── url (String)
+    |       |
+    |       ├── Link 2 (Object)
+    |       |   ├── title (String)
+    |       |   ├── icon (String)
+    |       |   |   Note: Use font awesome <i> tags
+    |       |   |   Example: "<i class='fas fa-file-alt'></i>"
+    |       |   └── url (String)
+    |       |
+    |       └── ...
+    |
+    ├── Section 2 (Object)
+    |   ├── heading (String / false)
+    |   └── links (Array)
+    |       ├── Link 1 (Object)
+    |       |   ├── title (String)
+    |       |   ├── icon (String)
+    |       |   |   Note: Use font awesome <i> tags
+    |       |   |   Example: "<i class='fas fa-file-alt'></i>"
+    |       |   └── url (String)
+    |       |
+    |       ├── Link 2 (Object)
+    |       |   ├── title (String)
+    |       |   ├── icon (String)
+    |       |   |   Note: Use font awesome <i> tags
+    |       |   |   Example: "<i class='fas fa-file-alt'></i>"
+    |       |   └── url (String)
+    |       |
+    |       └── ...
+    |
+    └── ...
+(end)
+```
