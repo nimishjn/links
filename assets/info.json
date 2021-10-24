@@ -7,11 +7,15 @@
         "HTML",
         "CSS",
         "JavaScript",
+        "ReactJs",
+        "JQuery",
+        "SASS",
         "C",
         "C++",
         "Java",
         "Python",
         "Matlab",
+        "discord.py",
         "MS Word",
         "MS PowerPoint",
         "MS Excel",
@@ -19,8 +23,7 @@
         "Git",
         "GitHub",
         "Research",
-        "Data Preprocessing",
-        "discord.py"
+        "Data Preprocessing"
     ],
     "sections": [
         {
@@ -55,6 +58,11 @@
                     "title": "DevTo",
                     "icon": "<i class='fab fa-dev'></i>",
                     "url": "https://dev.to/nimishjn"
+                },
+                {
+                    "title": "Medium",
+                    "icon": "<i class='fab fa-medium'></i>",
+                    "url": "https://nimishjn.medium.com"
                 },
                 {
                     "title": "freeCodeCamp",
