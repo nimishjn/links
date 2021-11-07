@@ -8,6 +8,7 @@
         "CSS",
         "JavaScript",
         "ReactJs",
+        "AngularJs",
         "JQuery",
         "SASS",
         "C",
@@ -103,6 +104,11 @@
                     "title": "First research paper",
                     "icon": "<i class='fas fa-file'></i>",
                     "url": "https://ieeexplore.ieee.org/document/9404497"
+                },
+                {
+                    "title": "Second research paper",
+                    "icon": "<i class='fas fa-file'></i>",
+                    "url": "https://www.sciencedirect.com/science/article/pii/S2405896321014919"
                 }
             ]
         },
