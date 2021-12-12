@@ -2,15 +2,19 @@
     "name": "Nimish Jain",
     "image": "./assets/nimish.jpeg",
     "designation": "Student, Vellore Institute of Technology, Vellore",
-    "heading": "Front-end Developer | Data Analytics Researcher",
+    "heading": "Full-stack Developer | Data Analytics Researcher",
     "skills": [
         "HTML",
         "CSS",
         "JavaScript",
         "ReactJs",
+        "NodeJs",
+        "ExpressJs",
+        "MongoDB",
         "AngularJs",
         "JQuery",
         "SASS",
+        "AJAX",
         "C",
         "C++",
         "Java",
@@ -116,9 +120,9 @@
             "heading": "GET IN TOUCH",
             "links": [
                 {
-                    "title": "Facebook",
-                    "icon": "<i class='fab fa-facebook-f'></i>",
-                    "url": "https://www.facebook.com/nimishjain100701"
+                    "title": "Email",
+                    "icon": "<i class='fas fa-envelope'></i>",
+                    "url": "mailto:nimishjain100701@gmail.com"
                 },
                 {
                     "title": "Twitter",
@@ -126,19 +130,14 @@
                     "url": "https://twitter.com/nimishjain_"
                 },
                 {
-                    "title": "Instagram",
-                    "icon": "<i class='fab fa-instagram'></i>",
-                    "url": "https://instagram.com/nimishjain_"
-                },
-                {
                     "title": "LinkedIn",
                     "icon": "<i class='fab fa-linkedin-in'></i>",
                     "url": "https://www.linkedin.com/in/nimishjn/"
                 },
                 {
-                    "title": "Email",
-                    "icon": "<i class='far fa-envelope'></i>",
-                    "url": "mailto:nimishjain100701@gmail.com"
+                    "title": "Facebook",
+                    "icon": "<i class='fab fa-facebook-f'></i>",
+                    "url": "https://www.facebook.com/nimishjain100701"
                 }
             ]
         }
