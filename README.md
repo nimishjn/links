@@ -1,8 +1,8 @@
 # Links and skills
 ![Baner](https://user-images.githubusercontent.com/63140632/135496771-2c2c2464-e4a7-4543-8ec4-36687c8471cf.png)
 
-A website built using HTML, CSS and JavaScript to host all the important links and skills of an individual.  
-Make changes to info.json and the website will render itself based on it.
+A website built using HTML, CSS, and JavaScript where an individual can host their important links and skills.
+Make changes to `info.json`, and the website will render itself based on it.
 
 ## Structure of [assets/info.json](./assets/info.json)
 ```
