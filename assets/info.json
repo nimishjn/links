@@ -8,23 +8,29 @@
         "CSS",
         "JavaScript",
         "ReactJs",
+        "NextJs",
         "NodeJs",
         "ExpressJs",
         "MongoDB",
+        "MySQL",
         "AngularJs",
         "JQuery",
         "SASS",
         "AJAX",
+        "TailwindCSS"
         "C",
         "C++",
         "Java",
         "Python",
         "Matlab",
         "discord.py",
+        "discord.js",
         "MS Word",
         "MS PowerPoint",
         "MS Excel",
         "VS Code",
+        "Manjaro",
+        "Figma",
         "Git",
         "GitHub",
         "Research",
@@ -113,6 +119,11 @@
                     "title": "Second research paper",
                     "icon": "<i class='fas fa-file'></i>",
                     "url": "https://www.sciencedirect.com/science/article/pii/S2405896321014919"
+                },
+                {
+                    "title": "New Performance Evaluation Metrics for Outlier Detection and Correction",
+                    "icon": "<i class='fas fa-file'></i>",
+                    "url": "https://link.springer.com/chapter/10.1007/978-981-16-9033-4_63#citeas"
                 }
             ]
         },
