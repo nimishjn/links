@@ -2,7 +2,7 @@
     "name": "Nimish Jain",
     "image": "./assets/nimish.jpeg",
     "designation": "Student, Vellore Institute of Technology, Vellore",
-    "heading": "Full-stack Developer | Data Analytics Researcher",
+    "heading": "Full-stack Developer",
     "skills": [
         "HTML",
         "CSS",
@@ -43,12 +43,12 @@
             {
                 "title": "Portfolio",
                 "icon": "<i class='fas fa-user'></i>",
-                "url": "https://www.nimish-jain.com"
+                "url": "https://nimish-jain.com"
             },
             {
                 "title": "Resume",
                 "icon": "<i class='fas fa-file-alt'></i>",
-                "url": "https://drive.google.com/file/d/1Tg31PggA8KJE4EIhHue5fIBz3qskzfgF"
+                "url": "https://resume.nimish-jain.com"
             }
         ]
         },
@@ -123,7 +123,7 @@
                 {
                     "title": "Third research paper",
                     "icon": "<i class='fas fa-file'></i>",
-                    "url": "https://link.springer.com/chapter/10.1007/978-981-16-9033-4_63#citeas"
+                    "url": "https://link.springer.com/chapter/10.1007/978-981-16-9033-4_63"
                 }
             ]
         },
